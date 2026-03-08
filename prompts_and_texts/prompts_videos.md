@@ -30,10 +30,6 @@ The **Negative Prompt** acts as a barrier against smoothing, but **adapts** depe
 
 ## 🎬 2. Action Script by Shot (Positive Prompts)
 
-*Note: All descriptions must begin with the base style block to preserve the retro aesthetic.*
-
-**Base Block:**  
-`1-bit pixel art, retro arcade game style, black and neon green phosphor monitor, sharp dithered shading. Midcentury broadcasting laboratory, a male technician in a white shirt and dark tie sitting at a console, wearing headphones and dark thick glasses.`
 
 ### 🎞️ Shot 1: The Head Turn (0.00s - 2.00s)
 * **Main Prompt:** [Base Block] A **cinematic medium shot with crisp depth of field** captures a man wearing a **white shirt, dark tie, and thick glasses** that frame well-defined eyes and sharp, detailed facial features. He sits in the foreground of a **radio studio**, wearing large headphones and speaking into a microphone, while his torso and shoulders remain almost completely still and composed, maintaining a natural and professional posture with his head slightly tilted downward. From this stable position, he **gently turns his head to the right before looking directly into the camera lens**, rendered with realistic pixel textures and smooth animation. Simultaneously, in the background—while preserving coherent spatial logic—**another man wearing a white shirt and headphones stands up from his desk with a subtle natural motion**. The entire sequence is rendered in a **1-bit pixel art masterpiece style with retro arcade graphics**, defined by a **high-contrast neon green and black color palette and thick pixelated outlines**. The atmosphere features an omnipresent **CRT monitor texture, pronounced scanlines, subtle geometric screen distortion, and a horizontal analog distortion along the upper edge of the frame**. Simulated cinematic lighting is translated flawlessly through **sharp pixel gradations and heavy dithering**, while the **original user text appears clearly pixelated at the bottom of the screen**, complemented by ambient sound.
