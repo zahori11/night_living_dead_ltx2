@@ -111,4 +111,16 @@ The **Negative Prompt** acts as a barrier against smoothing, but **adapts** depe
 * **End Prompt:** [Base Block] Medium shot, frontal view, a 1960s male announcer seated with glasses, wearing headphones and speaking into a microphone, dressed in a white shirt and black tie, with a well-defined face and detailed eyes. His eyes are closed and his gaze is directed downward, with a subtle head movement, gentle torso breathing, and hands resting calmly. The scene is framed by a clean retro television bezel, set inside a retro broadcast control room where technicians work in the background. Rendered in high-contrast black-and-white pixel art with deep depth of field, cinematic lighting, nuanced facial micro-expressions, and ambient sound.
 
 
+
+### 🎞️ Shot 9:****Silent Chaos**** (16.00s - 18.00s)
+
+* **Main Prompt:** [Base Block] A static medium close-up, high-contrast black-and-white 16-bit pixel art shot framed by the bezel of a retro CRT monitor, depicting a bustling 1960s mission control room where a serious man wearing glasses, a white shirt, a black tie, and a headset softly blinks and looks down at his console in the sharp foreground, while three other technicians rhythmically type and operate analog switches in the deep-focus background beneath harsh fluorescent lights and blinking mainframe computer panels.
+
+
+* **Middle Prompt:** [Base Block] A continuous, static medium close-up in high-contrast black-and-white 16-bit pixel art, framed by the bezel of a retro CRT monitor, depicting a tense 1960s mission control room where a serious technician wearing glasses, a crisp white shirt, and a headset looks downward with subtle, smooth facial animation as he reads his console in the foreground, while simultaneously in the sharp background a woman rhythmically types on a mechanical terminal, a seated man operates an analog switchboard, and a fourth technician walks past blinking mainframe server racks beneath volumetric overhead fluorescent lighting.
+
+
+* **End Prompt:** [Base Block] A continuous, static medium close-up in high-contrast black-and-white 16-bit pixel art, framed by the bezel of a retro CRT monitor, depicting an urgent 1960s mission control room where a tense technician wearing glasses, a crisp white shirt, and a headset looks directly forward to deliver an authoritative command with smooth facial animation in the sharp foreground, while simultaneously in the sharp background a standing man abruptly raises his arm to point to the left near blinking mainframe server racks, a seated woman rhythmically types on a mechanical terminal, and another technician operates an analog switchboard beneath volumetric overhead fluorescent lighting.
+
+
 ```
