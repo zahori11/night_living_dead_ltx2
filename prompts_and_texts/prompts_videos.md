@@ -131,4 +131,25 @@ Natural cinematic lighting enhances the high-contrast monochrome aesthetic with 
 
 * **End Prompt:** [Base Block] A continuous, static medium close-up in high-contrast black-and-white 16-bit pixel art, framed by the bezel of a retro CRT monitor, depicting an urgent 1960s mission control room where a tense technician wearing glasses, a crisp white shirt, and a headset looks directly forward to deliver an authoritative command with smooth facial animation in the sharp foreground, while simultaneously in the sharp background a standing man abruptly raises his arm to point to the left near blinking mainframe server racks, a seated woman rhythmically types on a mechanical terminal, and another technician operates an analog switchboard beneath volumetric overhead fluorescent lighting.
 
+* ### 🎞️ Shot 11:****Silent Chaos**** (18.00s - 20.00s)
+
+* **Main Prompt:** [Base Block] [Cinematic medium shot, static camera with a slight zoom-in] | A technician with glasses, a white shirt, and a tie, with an expression of intense concentration and a slightly furrowed brow [Subtle gestures] | seated in front of a complex control panel in a retro command room, with other operators working in the background within a tense atmosphere [Detailed environment] | grayscale pixel-art style, vintage CRT monitor aesthetic, illuminated by the glow of blinking server lights and a directional ceiling lamp [Light and palette control] | speaking slowly and precisely through his headset in English [Voice].
+
+
+
+* **Middle Prompt:** [Base Block] [Cinematic close-up, static camera emulating a classic CRT screen] | A retro technical operator with glasses, a white shirt, and a dark tie, showing a stoic and analytical expression [Slow blinking and a piercing gaze] | seated in a 1960s space-era control room, surrounded by large computers and colleagues working in the background [Dense monochrome pixel-art atmosphere] | illuminated by a bright overhead light and the diffuse reflection of button panels, with a high-contrast grayscale aesthetic [Pronounced shadows and hard lighting] | reciting telemetry coordinates in a monotone and professional tone in English [Voice].
+
+* **End Prompt:** [Base Block] [Toma media cercana, cuadro de monitor CRT clásico, cámara estática] | Un técnico de la era espacial con gafas de montura gruesa, camisa blanca y corbata estrecha, mirando hacia abajo con una expresión de concentración profunda y serena [Movimiento ocular sutil hacia los controles] | operando un panel de instrumentos complejo en una sala de control retro con colegas trabajando al fondo [Estética pixel art monocromática, atmósfera de misión espacial] | iluminado por una lámpara colgante que genera un alto contraste y sombras predeterminadas, con el brillo sutil de los botones del panel [Iluminación dramática en escala de grises] | confirmando secuencias de lanzamiento en un tono bajo y autoritario en inglés [Voz].
+
+
+
+* ### 🎞️ Shot 12:****Silent Chaos**** (20.00s - 22.00s)
+
+* **Main Prompt:** [Base Block] [Cinematic medium shot, static camera with a slight zoom-in] | A technician with glasses, a white shirt, and a tie, with an expression of intense concentration and a slightly furrowed brow [Subtle gestures] | seated in front of a complex control panel in a retro command room, with other operators working in the background within a tense atmosphere [Detailed environment] | grayscale pixel-art style, vintage CRT monitor aesthetic, illuminated by the glow of blinking server lights and a directional ceiling lamp [Light and palette control] | speaking slowly and precisely through his headset in English [Voice].
+
+
+
+* **Middle Prompt:** [Base Block] [Cinematic close-up, static camera emulating a classic CRT screen] | A retro technical operator with glasses, a white shirt, and a dark tie, showing a stoic and analytical expression [Slow blinking and a piercing gaze] | seated in a 1960s space-era control room, surrounded by large computers and colleagues working in the background [Dense monochrome pixel-art atmosphere] | illuminated by a bright overhead light and the diffuse reflection of button panels, with a high-contrast grayscale aesthetic [Pronounced shadows and hard lighting] | reciting telemetry coordinates in a monotone and professional tone in English [Voice].
+
+* **End Prompt:** [Base Block] [Toma media cercana, cuadro de monitor CRT clásico, cámara estática] | Un técnico de la era espacial con gafas de montura gruesa, camisa blanca y corbata estrecha, mirando hacia abajo con una expresión de concentración profunda y serena [Movimiento ocular sutil hacia los controles] | operando un panel de instrumentos complejo en una sala de control retro con colegas trabajando al fondo [Estética pixel art monocromática, atmósfera de misión espacial] | iluminado por una lámpara colgante que genera un alto contraste y sombras predeterminadas, con el brillo sutil de los botones del panel [Iluminación dramática en escala de grises] | confirmando secuencias de lanzamiento en un tono bajo y autoritario en inglés [Voz].
 ```
