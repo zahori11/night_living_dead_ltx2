@@ -67,6 +67,10 @@ Aquí tienes la **traducción al inglés en formato cuadrícula (tabla limpia pa
 | VAEDecodeTiled / VAEDecode | Converts generated latent data back into visible pixel-based images.                                     |
 | VHS_VideoCombine           | Combines all frames, syncs them with audio, and exports the final video file (.mp4).                     |
 
+<img width="1071" height="554" alt="image" src="https://github.com/user-attachments/assets/ee618a3d-bf46-411a-9b2e-a63be37e4546" />
+
+
+
 
 **Director’s Note:**  
 If nodes are missing when loading the workflow, use **“Install Missing Custom Nodes”** in your Manager and search for the names listed in the table above.
