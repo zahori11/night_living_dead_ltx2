@@ -69,8 +69,11 @@ Aquí tienes la **traducción al inglés en formato cuadrícula (tabla limpia pa
 
 <img width="1071" height="554" alt="image" src="https://github.com/user-attachments/assets/ee618a3d-bf46-411a-9b2e-a63be37e4546" />
 
+<img width="695" height="918" alt="image" src="https://github.com/user-attachments/assets/86b3136c-3708-4755-b0d6-18b85b1b6e8a" />
 
+<img width="1676" height="390" alt="image" src="https://github.com/user-attachments/assets/4efa67f8-1704-4081-a275-24cd9db12343" />
 
+<img width="1045" height="923" alt="image" src="https://github.com/user-attachments/assets/2df49fd5-0d38-49e6-906f-228130712255" />
 
 **Director’s Note:**  
 If nodes are missing when loading the workflow, use **“Install Missing Custom Nodes”** in your Manager and search for the names listed in the table above.
